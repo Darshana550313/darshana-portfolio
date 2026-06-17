@@ -16,11 +16,11 @@ import {
   BarChart3,
   GitBranch,
   Layers,
-  Scan,
+  
   Atom,
   Sparkles,
   Notebook,
-  Code,
+  
   Github,
   Cloud,
 

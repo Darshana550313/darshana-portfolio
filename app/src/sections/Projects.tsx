@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { ExternalLink, Github, ChevronRight, Sparkles, GraduationCap, Fuel, Heart, Activity, Shield } from 'lucide-react';
+import { ExternalLink, Github, ChevronRight, Sparkles, Heart, Activity, Shield } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import {
   Dialog,
